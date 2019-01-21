@@ -1,0 +1,492 @@
+{
+ "files": [
+  {
+   "desc": "worleys-caves",
+   "fileID": 2613897,
+   "filename": "worleycaves-1.3.0.jar",
+   "projectID": 299815,
+   "required": true
+  },
+  {
+   "desc": "dynamictrees",
+   "fileID": 2658681,
+   "filename": "DynamicTrees-1.12.2-0.9.4.jar",
+   "projectID": 252818,
+   "required": true
+  },
+  {
+   "desc": "Forestry",
+   "fileID": 2662209,
+   "filename": "forestry_1.12.2-5.8.2.382.jar",
+   "projectID": 59751,
+   "required": true
+  },
+  {
+   "desc": "jei-bees",
+   "fileID": 2490058,
+   "filename": "jeibees-0.9.0.5-mc1.12.2.jar",
+   "projectID": 248370,
+   "required": true
+  },
+  {
+   "desc": "Just Enough Items (JEI)",
+   "fileID": 2662517,
+   "filename": "jei_1.12.2-4.14.4.260.jar",
+   "projectID": 238222,
+   "required": true
+  },
+  {
+   "desc": "UniDict",
+   "fileID": 2652588,
+   "filename": "UniDict-1.12.2-2.9.2.jar",
+   "projectID": 244258,
+   "required": true
+  },
+  {
+   "desc": "WanionLib",
+   "fileID": 2651482,
+   "filename": "WanionLib-1.12.2-2.2.jar",
+   "projectID": 253043,
+   "required": true
+  },
+  {
+   "desc": "Signals",
+   "fileID": 2651595,
+   "filename": "Signals-1.12.2-1.4.1-30-universal.jar",
+   "projectID": 245824,
+   "required": true
+  },
+  {
+   "desc": "immersive-petroleum",
+   "fileID": 2544919,
+   "filename": "immersivepetroleum-1.12.2-1.1.9.jar",
+   "projectID": 268250,
+   "required": true
+  },
+  {
+   "desc": "Immersive Engineering",
+   "fileID": 2652289,
+   "filename": "ImmersiveEngineering-0.12-88.jar",
+   "projectID": 231951,
+   "required": true
+  },
+  {
+   "desc": "thermal-dynamics",
+   "fileID": 2624182,
+   "filename": "ThermalDynamics-1.12.2-2.5.3.16-universal.jar",
+   "projectID": 227443,
+   "required": true
+  },
+  {
+   "desc": "thermal-foundation",
+   "fileID": 2623991,
+   "filename": "ThermalFoundation-1.12.2-2.6.1.22-universal.jar",
+   "projectID": 222880,
+   "required": true
+  },
+  {
+   "desc": "cofhcore",
+   "fileID": 2623990,
+   "filename": "CoFHCore-1.12.2-4.6.1.22-universal.jar",
+   "projectID": 69162,
+   "required": true
+  },
+  {
+   "desc": "redstone-flux",
+   "fileID": 2623090,
+   "filename": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
+   "projectID": 270789,
+   "required": true
+  },
+  {
+   "desc": "cofh-world",
+   "fileID": 2623091,
+   "filename": "CoFHWorld-1.12.2-1.3.0.6-universal.jar",
+   "projectID": 271384,
+   "required": true
+  },
+  {
+   "desc": "codechicken-lib-1-8",
+   "fileID": 2618630,
+   "filename": "CodeChickenLib-1.12.2-3.2.2.353-universal.jar",
+   "projectID": 242818,
+   "required": true
+  },
+  {
+   "desc": "thermal-innovation",
+   "fileID": 2623101,
+   "filename": "ThermalInnovation-1.12.2-0.3.1.8-universal.jar",
+   "projectID": 291737,
+   "required": true
+  },
+  {
+   "desc": "NuclearCraft",
+   "fileID": 2662655,
+   "filename": "NuclearCraft-2.13a--1.12.2.jar",
+   "projectID": 226254,
+   "required": true
+  },
+  {
+   "desc": "Tech Reborn",
+   "fileID": 2661717,
+   "filename": "TechReborn-1.12.2-2.20.3.899-universal.jar",
+   "projectID": 233564,
+   "required": true
+  },
+  {
+   "desc": "Reborn Core",
+   "fileID": 2661704,
+   "filename": "RebornCore-1.12.2-3.13.2.411-universal.jar",
+   "projectID": 237903,
+   "required": true
+  },
+  {
+   "desc": "tinkers-tool-leveling",
+   "fileID": 2630860,
+   "filename": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+   "projectID": 250957,
+   "required": true
+  },
+  {
+   "desc": "Tinkers Construct",
+   "fileID": 2662253,
+   "filename": "TConstruct-1.12.2-2.12.0.115.jar",
+   "projectID": 74072,
+   "required": true
+  },
+  {
+   "desc": "mantle",
+   "fileID": 2630843,
+   "filename": "Mantle-1.12-1.3.3.39.jar",
+   "projectID": 74924,
+   "required": true
+  },
+  {
+   "desc": "malisisdoors",
+   "fileID": 2526674,
+   "filename": "malisisdoors-1.12.2-7.3.0.jar",
+   "projectID": 223891,
+   "required": true
+  },
+  {
+   "desc": "malisiscore",
+   "fileID": 2526670,
+   "filename": "malisiscore-1.12.2-6.4.0.jar",
+   "projectID": 223896,
+   "required": true
+  },
+  {
+   "desc": "Quark",
+   "fileID": 2659519,
+   "filename": "Quark-r1.5-144.jar",
+   "projectID": 243121,
+   "required": true
+  },
+  {
+   "desc": "AutoRegLib",
+   "fileID": 2652766,
+   "filename": "AutoRegLib-1.3-24.jar",
+   "projectID": 250363,
+   "required": true
+  },
+  {
+   "desc": "controlling",
+   "fileID": 2522248,
+   "filename": "Controlling-3.0.6.jar",
+   "projectID": 250398,
+   "required": true
+  },
+  {
+   "desc": "betterfps",
+   "fileID": 2483393,
+   "filename": "BetterFps-1.4.8.jar",
+   "projectID": 229876,
+   "required": true
+  },
+  {
+   "desc": "foamfix-for-minecraft",
+   "fileID": 2638380,
+   "filename": "foamfix-0.10.3-1.12.2.jar",
+   "projectID": 278494,
+   "required": true
+  },
+  {
+   "desc": "prospects",
+   "fileID": 2648864,
+   "filename": "prospects-1.0.6.jar",
+   "projectID": 290289,
+   "required": true
+  },
+  {
+   "desc": "Cooking for Blockheads",
+   "fileID": 2659430,
+   "filename": "CookingForBlockheads_1.12.2-6.4.69.jar",
+   "projectID": 231484,
+   "required": true
+  },
+  {
+   "desc": "Dark Utilities",
+   "fileID": 2648591,
+   "filename": "DarkUtils-1.12.2-1.8.222.jar",
+   "projectID": 242195,
+   "required": true
+  },
+  {
+   "desc": "Bookshelf",
+   "fileID": 2660664,
+   "filename": "Bookshelf-1.12.2-2.3.572.jar",
+   "projectID": 228525,
+   "required": true
+  },
+  {
+   "desc": "reauth",
+   "fileID": 2560638,
+   "filename": "reauth-3.6.0.jar",
+   "projectID": 237701,
+   "required": true
+  },
+  {
+   "desc": "Astral Sorcery",
+   "fileID": 2654934,
+   "filename": "astralsorcery-1.12.2-1.10.10.jar",
+   "projectID": 241721,
+   "required": true
+  },
+  {
+   "desc": "baubles",
+   "fileID": 2518667,
+   "filename": "Baubles-1.12-1.5.2.jar",
+   "projectID": 227083,
+   "required": true
+  },
+  {
+   "desc": "chest-transporter",
+   "fileID": 2524058,
+   "filename": "ChestTransporter-1.12.2-2.8.8.jar",
+   "projectID": 78778,
+   "required": true
+  },
+  {
+   "desc": "fast-leaf-decay",
+   "fileID": 2463272,
+   "filename": "FastLeafDecay-v14.jar",
+   "projectID": 230976,
+   "required": true
+  },
+  {
+   "desc": "gravestone-mod",
+   "fileID": 2608278,
+   "filename": "gravestone-1.10.2.jar",
+   "projectID": 238551,
+   "required": true
+  },
+  {
+   "desc": "opencomputers",
+   "fileID": 2638675,
+   "filename": "OpenComputers-MC1.12.2-1.7.3.146.jar",
+   "projectID": 223008,
+   "required": true
+  },
+  {
+   "desc": "The One Probe",
+   "fileID": 2660171,
+   "filename": "theoneprobe-1.12-1.4.27.jar",
+   "projectID": 245211,
+   "required": true
+  },
+  {
+   "desc": "netherportalfix",
+   "fileID": 2612052,
+   "filename": "NetherPortalFix_1.12.1-5.3.17.jar",
+   "projectID": 241160,
+   "required": true
+  },
+  {
+   "desc": "natures-compass",
+   "fileID": 2513221,
+   "filename": "NaturesCompass-1.12.2-1.5.1.jar",
+   "projectID": 252848,
+   "required": true
+  },
+  {
+   "desc": "Rustic",
+   "fileID": 2655420,
+   "filename": "rustic-1.0.15.jar",
+   "projectID": 256141,
+   "required": true
+  },
+  {
+   "desc": "crafting-tweaks",
+   "fileID": 2562139,
+   "filename": "CraftingTweaks_1.12.2-8.1.9.jar",
+   "projectID": 233071,
+   "required": true
+  },
+  {
+   "desc": "immersive-tech",
+   "fileID": 2568579,
+   "filename": "immersivetech-1.12-1.3.10.jar",
+   "projectID": 274159,
+   "required": true
+  },
+  {
+   "desc": "Antique Atlas",
+   "fileID": 2659892,
+   "filename": "antiqueatlas-1.12.2-4.5.0.jar",
+   "projectID": 227795,
+   "required": true
+  },
+  {
+   "desc": "AromaBackup",
+   "fileID": 2655623,
+   "filename": "AromaBackup-1.12.2-3.0.0.0.b116.jar",
+   "projectID": 225658,
+   "required": true
+  },
+  {
+   "desc": "Aroma1997Core",
+   "fileID": 2650886,
+   "filename": "Aroma1997Core-1.12.2-2.0.0.0.b162.jar",
+   "projectID": 223735,
+   "required": true
+  },
+  {
+   "desc": "platforms",
+   "fileID": 2616061,
+   "filename": "platforms-1.12.0-1.4.6.jar",
+   "projectID": 244786,
+   "required": true
+  },
+  {
+   "desc": "ShetiPhianCore",
+   "fileID": 2661618,
+   "filename": "shetiphiancore-1.12.0-3.5.9.jar",
+   "projectID": 71738,
+   "required": true
+  },
+  {
+   "desc": "useful-nullifiers",
+   "fileID": 2588336,
+   "filename": "usefulnullifiers-1.5.0.jar",
+   "projectID": 247408,
+   "required": true
+  },
+  {
+   "desc": "alternating-flux",
+   "fileID": 2611756,
+   "filename": "alternatingflux-0.12.2-1.jar",
+   "projectID": 285135,
+   "required": true
+  },
+  {
+   "desc": "persistent-bits",
+   "fileID": 2442831,
+   "filename": "PersistentBits-1.12-1.0.6a.jar",
+   "projectID": 245681,
+   "required": true
+  },
+ {
+   "desc": "coregen",
+   "fileID": 2661405,
+   "filename": "coregen-0.9.7.jar",
+   "projectID": 310400,
+   "required": true
+  },
+  {
+   "desc": "Climatic Biome Placement",
+   "fileID": 2662833,
+   "filename": "ClimaticBiomes-2.6.2-MC1.12.2.jar",
+   "projectID": 297361,
+   "required": true
+  },
+  {
+   "desc": "dynamic-trees-compatibility-for-climatic-biomes",
+   "fileID": 2659216,
+   "filename": "ClimaticBiomes-DynamicTreesCompat-1.1.0-MC1.12.2.jar",
+   "projectID": 309353,
+   "required": true
+  },
+  {
+   "desc": "move-plus",
+   "fileID": 2662513,
+   "filename": "moveplus-1.12.1-2.4.1.jar",
+   "projectID": 237758,
+   "required": true
+  },
+  {
+   "desc": "coroutil",
+   "fileID": 2662427,
+   "filename": "coroutil-1.12.1-1.2.18.jar",
+   "projectID": 237749,
+   "required": true
+  },
+  {
+   "desc": "refined-storage",
+   "fileID": 2642249,
+   "filename": "refinedstorage-1.6.12.jar",
+   "projectID": 243076,
+   "required": true
+  },
+  {
+   "desc": "advanced-chimneys",
+   "fileID": 2660844,
+   "filename": "AdChimneys-1.12.2-3.3.16.1-build.0246.jar",
+   "projectID": 244830,
+   "required": true
+  },
+  {
+   "desc": "forgeendertech",
+   "fileID": 2660587,
+   "filename": "ForgeEndertech-1.12.2-4.4.7.0-build.0245.jar",
+   "projectID": 244844,
+   "required": true
+  },
+  {
+   "desc": "immersive-craft",
+   "fileID": 2660156,
+   "filename": "immcraft-1.12-1.5.1.jar",
+   "projectID": 241268,
+   "required": true
+  },
+  {
+   "desc": "mcjtylib",
+   "fileID": 2660396,
+   "filename": "mcjtylib-1.12-3.1.1.jar",
+   "projectID": 233105,
+   "required": true
+  },
+  {
+   "desc": "impractical-storage",
+   "fileID": 2538032,
+   "filename": "ImpracticalStorage-1.5.0-MC1.12.2.jar",
+   "projectID": 263456,
+   "required": true
+  },
+  {
+   "desc": "storage-drawers",
+   "fileID": 2642386,
+   "filename": "StorageDrawers-1.12.2-5.3.8.jar",
+   "projectID": 223852,
+   "required": true
+  },
+  {
+   "desc": "chameleon",
+   "fileID": 2450900,
+   "filename": "Chameleon-1.12-4.1.3.jar",
+   "projectID": 230497,
+   "required": true
+  }
+ ],
+ "manifestType": "minecraftModpack",
+ "manifestVersion": 1,
+ "minecraft": {
+  "modLoaders": [
+   {
+    "id": "forge-14.23.5.2796",
+    "primary": true
+   }
+  ],
+  "version": "1.12.2"
+ },
+ "name": "/Users/dizzyd/src/dizzypack.s2"
+}
