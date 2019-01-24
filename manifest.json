@@ -30,8 +30,8 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2662517,
-   "filename": "jei_1.12.2-4.14.4.260.jar",
+   "fileID": 2663748,
+   "filename": "jei_1.12.2-4.14.4.263.jar",
    "projectID": 238222,
    "required": true
   },
@@ -121,8 +121,8 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2662655,
-   "filename": "NuclearCraft-2.13a--1.12.2.jar",
+   "fileID": 2663030,
+   "filename": "NuclearCraft-2.13d--1.12.2.jar",
    "projectID": 226254,
    "required": true
   },
@@ -177,8 +177,8 @@
   },
   {
    "desc": "Quark",
-   "fileID": 2659519,
-   "filename": "Quark-r1.5-144.jar",
+   "fileID": 2663450,
+   "filename": "Quark-r1.5-145.jar",
    "projectID": 243121,
    "required": true
   },
@@ -233,8 +233,8 @@
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2660664,
-   "filename": "Bookshelf-1.12.2-2.3.572.jar",
+   "fileID": 2663359,
+   "filename": "Bookshelf-1.12.2-2.3.573.jar",
    "projectID": 228525,
    "required": true
   },
@@ -385,10 +385,10 @@
    "projectID": 245681,
    "required": true
   },
- {
-   "desc": "coregen",
-   "fileID": 2661405,
-   "filename": "coregen-0.9.7.jar",
+  {
+   "desc": "Coregen",
+   "fileID": 2662916,
+   "filename": "coregen-0.9.8.jar",
    "projectID": 310400,
    "required": true
   },
@@ -407,16 +407,16 @@
    "required": true
   },
   {
-   "desc": "move-plus",
-   "fileID": 2662513,
-   "filename": "moveplus-1.12.1-2.4.1.jar",
+   "desc": "Move Plus",
+   "fileID": 2663392,
+   "filename": "moveplus-1.12.1-2.4.2.jar",
    "projectID": 237758,
    "required": true
   },
   {
-   "desc": "coroutil",
-   "fileID": 2662427,
-   "filename": "coroutil-1.12.1-1.2.18.jar",
+   "desc": "CoroUtil",
+   "fileID": 2663391,
+   "filename": "coroutil-1.12.1-1.2.19.jar",
    "projectID": 237749,
    "required": true
   },
@@ -435,9 +435,9 @@
    "required": true
   },
   {
-   "desc": "forgeendertech",
-   "fileID": 2660587,
-   "filename": "ForgeEndertech-1.12.2-4.4.7.0-build.0245.jar",
+   "desc": "ForgeEndertech",
+   "fileID": 2663910,
+   "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
   },
@@ -475,11 +475,75 @@
    "filename": "Chameleon-1.12-4.1.3.jar",
    "projectID": 230497,
    "required": true
+  },
+  {
+   "desc": "inventory-tweaks",
+   "fileID": 2657195,
+   "filename": "InventoryTweaks-1.64-dev.145.jar",
+   "projectID": 223094,
+   "required": true
+  },
+  {
+   "desc": "craftable-saddles",
+   "fileID": 2448715,
+   "filename": "Craftable-Saddles[1.12]-1.3.jar",
+   "projectID": 247093,
+   "required": true
+  },
+  {
+   "desc": "pams-harvestcraft",
+   "fileID": 2650315,
+   "filename": "Pams-HarvestCraft-1.12.2zb.jar",
+   "projectID": 221857,
+   "required": true
+  },
+  {
+   "desc": "notenoughscaffold",
+   "fileID": 2581687,
+   "filename": "NotEnoughScaffold-1.12.2-1.8.jar",
+   "projectID": 285170,
+   "required": true
+  },
+  {
+   "desc": "thermalexpansion",
+   "fileID": 2624855,
+   "filename": "ThermalExpansion-1.12.2-5.5.2.39-universal.jar",
+   "projectID": 69163,
+   "required": true
+  },
+  {
+   "desc": "littletiles",
+   "fileID": 2663857,
+   "filename": "LittleTiles_v1.5.0-pre123_mc1.12.2.jar",
+   "projectID": 257818,
+   "required": true
+  },
+  {
+   "desc": "creativecore",
+   "fileID": 2663856,
+   "filename": "CreativeCore_v1.9.36_mc1.12.2.jar",
+   "projectID": 257814,
+   "required": true
+  },
+  {
+   "desc": "earthworks",
+   "fileID": 2486190,
+   "filename": "Earthworks-1.12-1.3.6.jar",
+   "projectID": 255427,
+   "required": true
+  },
+  {
+   "desc": "building-gadgets",
+   "fileID": 2653875,
+   "filename": "BuildingGadgets-2.5.0.jar",
+   "projectID": 298187,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
  "manifestVersion": 1,
  "minecraft": {
+  "javaArgs": "-Xmx6G -XX:+UseG1GC",
   "modLoaders": [
    {
     "id": "forge-14.23.5.2796",

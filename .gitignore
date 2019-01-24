@@ -1,0 +1,11 @@
+.ReAuth.cfg
+.mixin.out
+logs
+usercache.json
+usernamecache.json
+coregen
+mods
+saves
+fonts
+backups
+astralsorcery
