@@ -121,15 +121,15 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2663030,
-   "filename": "NuclearCraft-2.13d--1.12.2.jar",
+   "fileID": 2663947,
+   "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
   },
   {
    "desc": "Tech Reborn",
-   "fileID": 2661717,
-   "filename": "TechReborn-1.12.2-2.20.3.899-universal.jar",
+   "fileID": 2664506,
+   "filename": "TechReborn-1.12.2-2.20.4.906-universal.jar",
    "projectID": 233564,
    "required": true
   },
@@ -226,13 +226,13 @@
   },
   {
    "desc": "Dark Utilities",
-   "fileID": 2648591,
-   "filename": "DarkUtils-1.12.2-1.8.222.jar",
+   "fileID": 2664235,
+   "filename": "DarkUtils-1.12.2-1.8.223.jar",
    "projectID": 242195,
    "required": true
   },
   {
-   "desc": "Bookshelf",
+   "desc": "bookshelf",
    "fileID": 2663359,
    "filename": "Bookshelf-1.12.2-2.3.573.jar",
    "projectID": 228525,
@@ -387,8 +387,8 @@
   },
   {
    "desc": "Coregen",
-   "fileID": 2662916,
-   "filename": "coregen-0.9.8.jar",
+   "fileID": 2664183,
+   "filename": "coregen-0.9.9.jar",
    "projectID": 310400,
    "required": true
   },
@@ -404,20 +404,6 @@
    "fileID": 2659216,
    "filename": "ClimaticBiomes-DynamicTreesCompat-1.1.0-MC1.12.2.jar",
    "projectID": 309353,
-   "required": true
-  },
-  {
-   "desc": "Move Plus",
-   "fileID": 2663392,
-   "filename": "moveplus-1.12.1-2.4.2.jar",
-   "projectID": 237758,
-   "required": true
-  },
-  {
-   "desc": "CoroUtil",
-   "fileID": 2663391,
-   "filename": "coroutil-1.12.1-1.2.19.jar",
-   "projectID": 237749,
    "required": true
   },
   {
@@ -512,16 +498,16 @@
    "required": true
   },
   {
-   "desc": "littletiles",
-   "fileID": 2663857,
-   "filename": "LittleTiles_v1.5.0-pre123_mc1.12.2.jar",
+   "desc": "LittleTiles",
+   "fileID": 2664465,
+   "filename": "LittleTiles_v1.5.0-pre124_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
-   "desc": "creativecore",
-   "fileID": 2663856,
-   "filename": "CreativeCore_v1.9.36_mc1.12.2.jar",
+   "desc": "CreativeCore",
+   "fileID": 2664464,
+   "filename": "CreativeCore_v1.9.37_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
   },
@@ -537,6 +523,50 @@
    "fileID": 2653875,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
+   "required": true
+  },
+  {
+   "desc": "comforts",
+   "fileID": 2651155,
+   "filename": "comforts-1.12.2-1.4.1.1.jar",
+   "projectID": 276951,
+   "required": true
+  },
+  {
+   "desc": "waterfree-farming",
+   "fileID": 2528276,
+   "filename": "waterfreefarming-2.0.5.jar",
+   "projectID": 252944,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "move-plus",
+   "fileID": 2663392,
+   "filename": "moveplus-1.12.1-2.4.2.jar",
+   "projectID": 237758,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "CoroUtil",
+   "fileID": 2664616,
+   "filename": "coroutil-1.12.1-1.2.20.jar",
+   "projectID": 237749,
+   "required": true
+  },
+  {
+   "desc": "informational-accessories",
+   "fileID": 2644009,
+   "filename": "InfoAccessories-1.12.2-1.0.11.jar",
+   "projectID": 278063,
+   "required": true
+  },
+  {
+   "desc": "bibliocraft",
+   "fileID": 2574880,
+   "filename": "BiblioCraft[v2.4.5][MC1.12.2].jar",
+   "projectID": 228027,
    "required": true
   }
  ],
