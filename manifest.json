@@ -34,6 +34,7 @@
   {
    "desc": "Just Enough Items (JEI)",
    "fileID": 2665456,
+   "filename": "jei_1.12.2-4.14.4.264.jar",
    "projectID": 238222,
    "required": true
   },
@@ -126,19 +127,6 @@
    "fileID": 2663947,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
-   "required": true
-  },
-  {
-   "desc": "Tech Reborn",
-   "fileID": 2665231,
-   "projectID": 233564,
-   "required": true
-  },
-  {
-   "desc": "Reborn Core",
-   "fileID": 2661704,
-   "filename": "RebornCore-1.12.2-3.13.2.411-universal.jar",
-   "projectID": 237903,
    "required": true
   },
   {
@@ -396,6 +384,7 @@
   {
    "desc": "Climatic Biome Placement",
    "fileID": 2665612,
+   "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
   },
@@ -416,6 +405,7 @@
   {
    "desc": "Advanced Chimneys",
    "fileID": 2665753,
+   "filename": "AdChimneys-1.12.2-3.3.17.0-build.0250.jar",
    "projectID": 244830,
    "required": true
   },
@@ -542,6 +532,7 @@
    "clientOnly": true,
    "desc": "Move Plus",
    "fileID": 2665835,
+   "filename": "moveplus-1.12.1-2.4.4.jar",
    "projectID": 237758,
    "required": true
   },
@@ -549,6 +540,7 @@
    "clientOnly": true,
    "desc": "CoroUtil",
    "fileID": 2666002,
+   "filename": "coroutil-1.12.1-1.2.24.jar",
    "projectID": 237749,
    "required": true
   },
@@ -569,25 +561,36 @@
   {
    "desc": "tiny-mob-farm",
    "fileID": 2663020,
+   "filename": "TinyMobFarm-1.12.2-1.0.3.jar",
    "projectID": 311880,
    "required": true
   },
   {
    "desc": "chisels-bits",
    "fileID": 2663717,
+   "filename": "chiselsandbits-14.30.jar",
    "projectID": 231095,
    "required": true
   },
   {
    "desc": "chisel",
    "fileID": 2619468,
+   "filename": "Chisel-MC1.12.2-0.2.1.35.jar",
    "projectID": 235279,
    "required": true
   },
   {
    "desc": "ctm",
    "fileID": 2642375,
+   "filename": "CTM-MC1.12.2-0.3.3.22.jar",
    "projectID": 267602,
+   "required": true
+  },
+  {
+   "desc": "industrial-craft",
+   "fileID": 2664570,
+   "filename": "industrialcraft-2-2.8.109-ex112.jar",
+   "projectID": 242638,
    "required": true
   }
  ],
