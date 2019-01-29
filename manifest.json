@@ -1,6 +1,6 @@
 {
  "extfiles": {
-    "Nutrition": "https://github.com/WesCook/Nutrition/releases/download/v4.0.0/Nutrition-1.12.2-4.0.0.jar"
+  "Nutrition": "https://github.com/WesCook/Nutrition/releases/download/v4.0.0/Nutrition-1.12.2-4.0.0.jar"
  },
  "files": [
   {
@@ -33,8 +33,7 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2663748,
-   "filename": "jei_1.12.2-4.14.4.263.jar",
+   "fileID": 2665456,
    "projectID": 238222,
    "required": true
   },
@@ -131,8 +130,7 @@
   },
   {
    "desc": "Tech Reborn",
-   "fileID": 2664506,
-   "filename": "TechReborn-1.12.2-2.20.4.906-universal.jar",
+   "fileID": 2665231,
    "projectID": 233564,
    "required": true
   },
@@ -389,16 +387,15 @@
    "required": true
   },
   {
-   "desc": "Coregen",
-   "fileID": 2664183,
-   "filename": "coregen-0.9.9.jar",
+   "desc": "coregen",
+   "fileID": 2664932,
+   "filename": "coregen-0.9.10.jar",
    "projectID": 310400,
    "required": true
   },
   {
    "desc": "Climatic Biome Placement",
-   "fileID": 2662833,
-   "filename": "ClimaticBiomes-2.6.2-MC1.12.2.jar",
+   "fileID": 2665612,
    "projectID": 297361,
    "required": true
   },
@@ -417,9 +414,8 @@
    "required": true
   },
   {
-   "desc": "advanced-chimneys",
-   "fileID": 2660844,
-   "filename": "AdChimneys-1.12.2-3.3.16.1-build.0246.jar",
+   "desc": "Advanced Chimneys",
+   "fileID": 2665753,
    "projectID": 244830,
    "required": true
   },
@@ -544,17 +540,15 @@
   },
   {
    "clientOnly": true,
-   "desc": "move-plus",
-   "fileID": 2663392,
-   "filename": "moveplus-1.12.1-2.4.2.jar",
+   "desc": "Move Plus",
+   "fileID": 2665835,
    "projectID": 237758,
    "required": true
   },
   {
    "clientOnly": true,
    "desc": "CoroUtil",
-   "fileID": 2664616,
-   "filename": "coroutil-1.12.1-1.2.20.jar",
+   "fileID": 2666002,
    "projectID": 237749,
    "required": true
   },
@@ -570,6 +564,30 @@
    "fileID": 2574880,
    "filename": "BiblioCraft[v2.4.5][MC1.12.2].jar",
    "projectID": 228027,
+   "required": true
+  },
+  {
+   "desc": "tiny-mob-farm",
+   "fileID": 2663020,
+   "projectID": 311880,
+   "required": true
+  },
+  {
+   "desc": "chisels-bits",
+   "fileID": 2663717,
+   "projectID": 231095,
+   "required": true
+  },
+  {
+   "desc": "chisel",
+   "fileID": 2619468,
+   "projectID": 235279,
+   "required": true
+  },
+  {
+   "desc": "ctm",
+   "fileID": 2642375,
+   "projectID": 267602,
    "required": true
   }
  ],
