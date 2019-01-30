@@ -592,6 +592,18 @@
    "filename": "industrialcraft-2-2.8.109-ex112.jar",
    "projectID": 242638,
    "required": true
+  },
+  {
+   "desc": "better-diving",
+   "fileID": 2661853,
+   "projectID": 310303,
+   "required": true
+  },
+  {
+   "desc": "just-a-few-fish",
+   "fileID": 2448283,
+   "projectID": 235261,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
