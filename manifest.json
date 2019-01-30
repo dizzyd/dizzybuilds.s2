@@ -221,9 +221,8 @@
    "required": true
   },
   {
-   "desc": "bookshelf",
-   "fileID": 2663359,
-   "filename": "Bookshelf-1.12.2-2.3.573.jar",
+   "desc": "Bookshelf",
+   "fileID": 2666922,
    "projectID": 228525,
    "required": true
   },
@@ -488,15 +487,13 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2664465,
-   "filename": "LittleTiles_v1.5.0-pre124_mc1.12.2.jar",
+   "fileID": 2666180,
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2664464,
-   "filename": "CreativeCore_v1.9.37_mc1.12.2.jar",
+   "fileID": 2666181,
    "projectID": 257814,
    "required": true
   },
