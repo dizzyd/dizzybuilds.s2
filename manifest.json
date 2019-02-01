@@ -604,6 +604,12 @@
    "fileID": 2448283,
    "projectID": 235261,
    "required": true
+  },
+  {
+   "desc": "wearable-backpacks",
+   "fileID": 2576699,
+   "projectID": 257572,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
