@@ -200,8 +200,8 @@
    "required": true
   },
   {
-   "desc": "prospects",
-   "fileID": 2648864,
+   "desc": "Prospects",
+   "fileID": 2667490,
    "filename": "prospects-1.0.6.jar",
    "projectID": 290289,
    "required": true
@@ -236,7 +236,7 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 2654934,
+   "fileID": 2667338,
    "filename": "astralsorcery-1.12.2-1.10.10.jar",
    "projectID": 241721,
    "required": true
@@ -278,7 +278,7 @@
   },
   {
    "desc": "The One Probe",
-   "fileID": 2660171,
+   "fileID": 2667280,
    "filename": "theoneprobe-1.12-1.4.27.jar",
    "projectID": 245211,
    "required": true
@@ -495,7 +495,7 @@
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2666181,
+   "fileID": 2667582,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -539,7 +539,7 @@
   {
    "clientOnly": true,
    "desc": "CoroUtil",
-   "fileID": 2666002,
+   "fileID": 2667485,
    "filename": "coroutil-1.12.1-1.2.24.jar",
    "projectID": 237749,
    "required": true
