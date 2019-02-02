@@ -610,6 +610,12 @@
    "fileID": 2576699,
    "projectID": 257572,
    "required": true
+  },
+  {
+   "desc": "morpheus",
+   "fileID": 2432272,
+   "projectID": 69118,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
