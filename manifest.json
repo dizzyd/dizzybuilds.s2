@@ -426,7 +426,6 @@
   {
    "desc": "mcjtylib",
    "fileID": 2660396,
-   "filename": "mcjtylib-1.12-3.1.1.jar",
    "projectID": 233105,
    "required": true
   },
@@ -508,8 +507,8 @@
    "required": true
   },
   {
-   "desc": "building-gadgets",
-   "fileID": 2653875,
+   "desc": "Building Gadgets",
+   "fileID": 2667653,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
    "required": true
@@ -539,7 +538,7 @@
   {
    "clientOnly": true,
    "desc": "CoroUtil",
-   "fileID": 2667485,
+   "fileID": 2667888,
    "filename": "coroutil-1.12.1-1.2.24.jar",
    "projectID": 237749,
    "required": true
@@ -615,6 +614,25 @@
    "desc": "morpheus",
    "fileID": 2432272,
    "projectID": 69118,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "smooth-font",
+   "fileID": 2666257,
+   "projectID": 285742,
+   "required": true
+  },
+  {
+   "desc": "chunkpregenerator",
+   "fileID": 2631708,
+   "projectID": 267193,
+   "required": true
+  },
+  {
+   "desc": "rftools",
+   "fileID": 2660163,
+   "projectID": 224641,
    "required": true
   }
  ],
