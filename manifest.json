@@ -538,8 +538,7 @@
   {
    "clientOnly": true,
    "desc": "CoroUtil",
-   "fileID": 2667888,
-   "filename": "coroutil-1.12.1-1.2.24.jar",
+   "fileID": 2668627,
    "projectID": 237749,
    "required": true
   },
@@ -586,9 +585,8 @@
    "required": true
   },
   {
-   "desc": "industrial-craft",
-   "fileID": 2664570,
-   "filename": "industrialcraft-2-2.8.109-ex112.jar",
+   "desc": "Industrial Craft",
+   "fileID": 2668202,
    "projectID": 242638,
    "required": true
   },
@@ -618,14 +616,14 @@
   },
   {
    "clientOnly": true,
-   "desc": "smooth-font",
-   "fileID": 2666257,
+   "desc": "Smooth Font",
+   "fileID": 2668382,
    "projectID": 285742,
    "required": true
   },
   {
-   "desc": "chunkpregenerator",
-   "fileID": 2631708,
+   "desc": "Chunk-Pregenerator",
+   "fileID": 2668221,
    "projectID": 267193,
    "required": true
   },
@@ -633,6 +631,12 @@
    "desc": "rftools",
    "fileID": 2660163,
    "projectID": 224641,
+   "required": true
+  },
+  {
+   "desc": "bonsai-trees",
+   "fileID": 2654304,
+   "projectID": 278993,
    "required": true
   }
  ],
