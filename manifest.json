@@ -32,9 +32,8 @@
    "required": true
   },
   {
-   "desc": "Just Enough Items (JEI)",
+   "desc": "jei",
    "fileID": 2665456,
-   "filename": "jei_1.12.2-4.14.4.264.jar",
    "projectID": 238222,
    "required": true
   },
@@ -643,6 +642,12 @@
    "desc": "laggoggles",
    "fileID": 2536205,
    "projectID": 283525,
+   "required": true
+  },
+  {
+   "desc": "just-enough-calculation",
+   "fileID": 2667384,
+   "projectID": 242223,
    "required": true
   }
  ],
