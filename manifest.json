@@ -74,22 +74,22 @@
    "required": true
   },
   {
-   "desc": "thermal-dynamics",
-   "fileID": 2624182,
+   "desc": "Thermal Dynamics",
+   "fileID": 2669256,
    "filename": "ThermalDynamics-1.12.2-2.5.3.16-universal.jar",
    "projectID": 227443,
    "required": true
   },
   {
-   "desc": "thermal-foundation",
-   "fileID": 2623991,
+   "desc": "Thermal Foundation",
+   "fileID": 2669258,
    "filename": "ThermalFoundation-1.12.2-2.6.1.22-universal.jar",
    "projectID": 222880,
    "required": true
   },
   {
-   "desc": "cofhcore",
-   "fileID": 2623990,
+   "desc": "CoFH Core",
+   "fileID": 2669253,
    "filename": "CoFHCore-1.12.2-4.6.1.22-universal.jar",
    "projectID": 69162,
    "required": true
@@ -116,8 +116,8 @@
    "required": true
   },
   {
-   "desc": "thermal-innovation",
-   "fileID": 2623101,
+   "desc": "Thermal Innovation",
+   "fileID": 2669259,
    "filename": "ThermalInnovation-1.12.2-0.3.1.8-universal.jar",
    "projectID": 291737,
    "required": true
@@ -479,8 +479,8 @@
    "required": true
   },
   {
-   "desc": "thermalexpansion",
-   "fileID": 2624855,
+   "desc": "Thermal Expansion",
+   "fileID": 2669257,
    "filename": "ThermalExpansion-1.12.2-5.5.2.39-universal.jar",
    "projectID": 69163,
    "required": true
@@ -637,6 +637,12 @@
    "desc": "bonsai-trees",
    "fileID": 2654304,
    "projectID": 278993,
+   "required": true
+  },
+  {
+   "desc": "laggoggles",
+   "fileID": 2536205,
+   "projectID": 283525,
    "required": true
   }
  ],
