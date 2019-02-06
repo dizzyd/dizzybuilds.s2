@@ -583,7 +583,7 @@
   },
   {
    "desc": "Industrial Craft",
-   "fileID": 2668202,
+   "fileID": 2669612,
    "projectID": 242638,
    "required": true
   },
@@ -643,8 +643,8 @@
    "required": true
   },
   {
-   "desc": "just-enough-calculation",
-   "fileID": 2667384,
+   "desc": "Just Enough Calculation",
+   "fileID": 2669618,
    "projectID": 242223,
    "required": true
   }
