@@ -200,8 +200,7 @@
   },
   {
    "desc": "Prospects",
-   "fileID": 2667490,
-   "filename": "prospects-1.0.6.jar",
+   "fileID": 2669914,
    "projectID": 290289,
    "required": true
   },
@@ -375,8 +374,7 @@
   },
   {
    "desc": "coregen",
-   "fileID": 2667194,
-   "filename": "coregen-0.9.11.jar",
+   "fileID": 2669911,
    "projectID": 310400,
    "required": true
   },
