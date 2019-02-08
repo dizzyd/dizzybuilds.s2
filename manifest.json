@@ -647,6 +647,18 @@
    "fileID": 2669618,
    "projectID": 242223,
    "required": true
+  },
+  {
+   "desc": "automated-redstone",
+   "fileID": 2669116,
+   "projectID": 229507,
+   "required": true
+  },
+  {
+   "desc": "cd4017be-library",
+   "fileID": 2670423,
+   "projectID": 229208,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
