@@ -268,8 +268,8 @@
    "required": true
   },
   {
-   "desc": "opencomputers",
-   "fileID": 2638675,
+   "desc": "OpenComputers",
+   "fileID": 2670112,
    "filename": "OpenComputers-MC1.12.2-1.7.3.146.jar",
    "projectID": 223008,
    "required": true
@@ -297,7 +297,7 @@
   },
   {
    "desc": "Rustic",
-   "fileID": 2655420,
+   "fileID": 2670073,
    "filename": "rustic-1.0.15.jar",
    "projectID": 256141,
    "required": true
@@ -448,8 +448,8 @@
    "required": true
   },
   {
-   "desc": "inventory-tweaks",
-   "fileID": 2657195,
+   "desc": "Inventory Tweaks",
+   "fileID": 2670367,
    "filename": "InventoryTweaks-1.64-dev.145.jar",
    "projectID": 223094,
    "required": true
@@ -505,7 +505,7 @@
   },
   {
    "desc": "Building Gadgets",
-   "fileID": 2667653,
+   "fileID": 2670027,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
    "required": true
@@ -614,7 +614,7 @@
   {
    "clientOnly": true,
    "desc": "Smooth Font",
-   "fileID": 2668382,
+   "fileID": 2670203,
    "projectID": 285742,
    "required": true
   },
