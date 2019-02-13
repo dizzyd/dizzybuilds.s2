@@ -143,8 +143,8 @@
    "required": true
   },
   {
-   "desc": "mantle",
-   "fileID": 2630843,
+   "desc": "Mantle",
+   "fileID": 2671124,
    "filename": "Mantle-1.12-1.3.3.39.jar",
    "projectID": 74924,
    "required": true
@@ -325,14 +325,14 @@
   },
   {
    "desc": "AromaBackup",
-   "fileID": 2655623,
+   "fileID": 2672446,
    "filename": "AromaBackup-1.12.2-3.0.0.0.b116.jar",
    "projectID": 225658,
    "required": true
   },
   {
    "desc": "Aroma1997Core",
-   "fileID": 2650886,
+   "fileID": 2672444,
    "filename": "Aroma1997Core-1.12.2-2.0.0.0.b162.jar",
    "projectID": 223735,
    "required": true
@@ -505,7 +505,7 @@
   },
   {
    "desc": "Building Gadgets",
-   "fileID": 2670027,
+   "fileID": 2672284,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
    "required": true
@@ -554,8 +554,8 @@
    "required": true
   },
   {
-   "desc": "tiny-mob-farm",
-   "fileID": 2663020,
+   "desc": "Tiny Mob Farm",
+   "fileID": 2670975,
    "filename": "TinyMobFarm-1.12.2-1.0.3.jar",
    "projectID": 311880,
    "required": true
@@ -644,7 +644,7 @@
   },
   {
    "desc": "Just Enough Calculation",
-   "fileID": 2669618,
+   "fileID": 2671358,
    "projectID": 242223,
    "required": true
   },
@@ -658,6 +658,18 @@
    "desc": "cd4017be-library",
    "fileID": 2670423,
    "projectID": 229208,
+   "required": true
+  },
+  {
+   "desc": "rftools-power",
+   "fileID": 2660170,
+   "projectID": 290209,
+   "required": true
+  },
+  {
+   "desc": "in-game-wiki-mod",
+   "fileID": 2551739,
+   "projectID": 223815,
    "required": true
   }
  ],
