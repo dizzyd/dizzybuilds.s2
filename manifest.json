@@ -67,7 +67,7 @@
   },
   {
    "desc": "Immersive Engineering",
-   "fileID": 2652289,
+   "fileID": 2676463,
    "filename": "ImmersiveEngineering-0.12-88.jar",
    "projectID": 231951,
    "required": true
@@ -220,7 +220,7 @@
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2666922,
+   "fileID": 2675007,
    "filename": "Bookshelf-1.12.2-2.3.574.jar",
    "projectID": 228525,
    "required": true
@@ -401,14 +401,14 @@
   },
   {
    "desc": "Advanced Chimneys",
-   "fileID": 2665753,
+   "fileID": 2675045,
    "filename": "AdChimneys-1.12.2-3.3.17.0-build.0250.jar",
    "projectID": 244830,
    "required": true
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2663910,
+   "fileID": 2675042,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
@@ -505,7 +505,7 @@
   },
   {
    "desc": "Building Gadgets",
-   "fileID": 2672284,
+   "fileID": 2676134,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
    "required": true
@@ -527,7 +527,7 @@
   {
    "clientOnly": true,
    "desc": "Move Plus",
-   "fileID": 2665835,
+   "fileID": 2676061,
    "filename": "moveplus-1.12.1-2.4.4.jar",
    "projectID": 237758,
    "required": true
@@ -606,27 +606,27 @@
    "required": true
   },
   {
-   "desc": "morpheus",
-   "fileID": 2432272,
+   "desc": "Morpheus",
+   "fileID": 2664449,
    "projectID": 69118,
    "required": true
   },
   {
    "clientOnly": true,
    "desc": "Smooth Font",
-   "fileID": 2670203,
+   "fileID": 2675252,
    "projectID": 285742,
    "required": true
   },
   {
    "desc": "Chunk-Pregenerator",
-   "fileID": 2668221,
+   "fileID": 2676149,
    "projectID": 267193,
    "required": true
   },
   {
-   "desc": "rftools",
-   "fileID": 2660163,
+   "desc": "RFTools",
+   "fileID": 2672513,
    "projectID": 224641,
    "required": true
   },
@@ -655,8 +655,8 @@
    "required": true
   },
   {
-   "desc": "cd4017be-library",
-   "fileID": 2670423,
+   "desc": "CD4017BE Library",
+   "fileID": 2676114,
    "projectID": 229208,
    "required": true
   },
