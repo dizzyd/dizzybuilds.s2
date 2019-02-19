@@ -671,6 +671,24 @@
    "fileID": 2551739,
    "projectID": 223815,
    "required": true
+  },
+  {
+   "desc": "mob-grinding-utils",
+   "fileID": 2656683,
+   "projectID": 254241,
+   "required": true
+  },
+  {
+   "desc": "engineers-decor",
+   "fileID": 2676095,
+   "projectID": 313866,
+   "required": true
+  },
+  {
+   "desc": "effortless-building",
+   "fileID": 2674457,
+   "projectID": 302113,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
