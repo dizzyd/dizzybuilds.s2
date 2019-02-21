@@ -19,7 +19,7 @@
   },
   {
    "desc": "Forestry",
-   "fileID": 2662209,
+   "fileID": 2677324,
    "filename": "forestry_1.12.2-5.8.2.382.jar",
    "projectID": 59751,
    "required": true
@@ -69,6 +69,7 @@
    "desc": "Immersive Engineering",
    "fileID": 2652289,
    "filename": "ImmersiveEngineering-0.12-88.jar",
+   "locked": true,
    "projectID": 231951,
    "required": true
   },
@@ -165,14 +166,14 @@
   },
   {
    "desc": "Quark",
-   "fileID": 2663450,
+   "fileID": 2677108,
    "filename": "Quark-r1.5-145.jar",
    "projectID": 243121,
    "required": true
   },
   {
    "desc": "AutoRegLib",
-   "fileID": 2652766,
+   "fileID": 2677092,
    "filename": "AutoRegLib-1.3-24.jar",
    "projectID": 250363,
    "required": true
@@ -332,7 +333,7 @@
   },
   {
    "desc": "Aroma1997Core",
-   "fileID": 2672444,
+   "fileID": 2676868,
    "filename": "Aroma1997Core-1.12.2-2.0.0.0.b162.jar",
    "projectID": 223735,
    "required": true
@@ -644,7 +645,7 @@
   },
   {
    "desc": "Just Enough Calculation",
-   "fileID": 2671358,
+   "fileID": 2676907,
    "projectID": 242223,
    "required": true
   },
@@ -679,15 +680,33 @@
    "required": true
   },
   {
-   "desc": "engineers-decor",
-   "fileID": 2676095,
+   "desc": "Engineer's Decor",
+   "fileID": 2676991,
    "projectID": 313866,
    "required": true
   },
   {
-   "desc": "effortless-building",
-   "fileID": 2674457,
+   "desc": "Effortless Building",
+   "fileID": 2676649,
    "projectID": 302113,
+   "required": true
+  },
+  {
+   "desc": "compacter",
+   "fileID": 2490045,
+   "projectID": 231549,
+   "required": true
+  },
+  {
+   "desc": "bdlib",
+   "fileID": 2518031,
+   "projectID": 70496,
+   "required": true
+  },
+  {
+   "desc": "mekanism",
+   "fileID": 2572881,
+   "projectID": 268560,
    "required": true
   }
  ],
