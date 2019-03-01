@@ -158,8 +158,8 @@
    "required": true
   },
   {
-   "desc": "malisiscore",
-   "fileID": 2526670,
+   "desc": "MalisisCore",
+   "fileID": 2680892,
    "filename": "malisiscore-1.12.2-6.4.0.jar",
    "projectID": 223896,
    "required": true
@@ -201,7 +201,7 @@
   },
   {
    "desc": "prospects",
-   "fileID": 2681523,
+   "fileID": 2681943, 
    "projectID": 290289,
    "required": true
   },
@@ -375,7 +375,7 @@
   },
   {
    "desc": "coregen",
-   "fileID": 2669911,
+   "fileID": 2681948,
    "projectID": 310400,
    "required": true
   },
@@ -485,7 +485,7 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2666180,
+   "fileID": 2680991,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
@@ -506,7 +506,7 @@
   },
   {
    "desc": "Building Gadgets",
-   "fileID": 2678734,
+   "fileID": 2681257,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
    "required": true
@@ -556,7 +556,7 @@
   },
   {
    "desc": "Tiny Mob Farm",
-   "fileID": 2670975,
+   "fileID": 2681454,
    "filename": "TinyMobFarm-1.12.2-1.0.3.jar",
    "projectID": 311880,
    "required": true
@@ -686,8 +686,8 @@
    "required": true
   },
   {
-   "desc": "effortless-building",
-   "fileID": 2678741,
+   "desc": "Effortless Building",
+   "fileID": 2681513,
    "projectID": 302113,
    "required": true
   },
@@ -704,8 +704,8 @@
    "required": true
   },
   {
-   "desc": "mekanism-dz-edition",
-   "fileID": 2680756,
+   "desc": "Mekanism: DZ Edition",
+   "fileID": 2681880,
    "projectID": 315844,
    "required": true
   }
