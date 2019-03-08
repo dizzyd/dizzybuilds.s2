@@ -19,7 +19,7 @@
   },
   {
    "desc": "Forestry",
-   "fileID": 2677324,
+   "fileID": 2683883,
    "filename": "forestry_1.12.2-5.8.2.382.jar",
    "projectID": 59751,
    "required": true
@@ -33,7 +33,7 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2680018,
+   "fileID": 2682936,
    "projectID": 238222,
    "required": true
   },
@@ -201,7 +201,7 @@
   },
   {
    "desc": "prospects",
-   "fileID": 2681943, 
+   "fileID": 2681943,
    "projectID": 290289,
    "required": true
   },
@@ -221,7 +221,7 @@
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2680288,
+   "fileID": 2683823,
    "filename": "Bookshelf-1.12.2-2.3.574.jar",
    "projectID": 228525,
    "required": true
@@ -381,7 +381,7 @@
   },
   {
    "desc": "Climatic Biome Placement",
-   "fileID": 2665612,
+   "fileID": 2682795,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
@@ -402,14 +402,14 @@
   },
   {
    "desc": "Advanced Chimneys",
-   "fileID": 2675045,
+   "fileID": 2682792,
    "filename": "AdChimneys-1.12.2-3.3.17.0-build.0250.jar",
    "projectID": 244830,
    "required": true
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2677628,
+   "fileID": 2682791,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
@@ -615,7 +615,7 @@
   {
    "clientOnly": true,
    "desc": "Smooth Font",
-   "fileID": 2678840,
+   "fileID": 2682639,
    "projectID": 285742,
    "required": true
   },
@@ -681,7 +681,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2679766,
+   "fileID": 2684522,
    "projectID": 313866,
    "required": true
   },
@@ -705,8 +705,14 @@
   },
   {
    "desc": "Mekanism: DZ Edition",
-   "fileID": 2681880,
+   "fileID": 2684498,
    "projectID": 315844,
+   "required": true
+  },
+  {
+   "desc": "immersiveposts",
+   "fileID": 2683261,
+   "projectID": 314645,
    "required": true
   }
  ],
