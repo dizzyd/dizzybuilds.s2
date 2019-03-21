@@ -704,8 +704,8 @@
    "required": true
   },
   {
-   "desc": "Mekanica",
-   "fileID": 2687560,
+   "desc": "mekanica",
+   "fileID": 2689513,
    "projectID": 315844,
    "required": true
   },
@@ -713,6 +713,12 @@
    "desc": "immersiveposts",
    "fileID": 2683261,
    "projectID": 314645,
+   "required": true
+  },
+  {
+   "desc": "mekanica-generators",
+   "fileID": 2689847,
+   "projectID": 315908,
    "required": true
   }
  ],
