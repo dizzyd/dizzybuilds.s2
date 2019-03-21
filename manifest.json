@@ -19,7 +19,7 @@
   },
   {
    "desc": "Forestry",
-   "fileID": 2683883,
+   "fileID": 2684780,
    "filename": "forestry_1.12.2-5.8.2.382.jar",
    "projectID": 59751,
    "required": true
@@ -33,7 +33,7 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2682936,
+   "fileID": 2684645,
    "projectID": 238222,
    "required": true
   },
@@ -138,7 +138,7 @@
   },
   {
    "desc": "Tinkers Construct",
-   "fileID": 2662253,
+   "fileID": 2687590,
    "filename": "TConstruct-1.12.2-2.12.0.115.jar",
    "projectID": 74072,
    "required": true
@@ -381,14 +381,14 @@
   },
   {
    "desc": "Climatic Biome Placement",
-   "fileID": 2682795,
+   "fileID": 2686721,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
   },
   {
-   "desc": "dynamic-trees-compatibility-for-climatic-biomes",
-   "fileID": 2659216,
+   "desc": "Dynamic Trees Compatibility for Climatic Biomes",
+   "fileID": 2688433,
    "filename": "ClimaticBiomes-DynamicTreesCompat-1.1.0-MC1.12.2.jar",
    "projectID": 309353,
    "required": true
@@ -409,7 +409,7 @@
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2682791,
+   "fileID": 2688392,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
@@ -485,14 +485,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2680991,
+   "fileID": 2689778,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2667582,
+   "fileID": 2689777,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -506,7 +506,7 @@
   },
   {
    "desc": "Building Gadgets",
-   "fileID": 2681257,
+   "fileID": 2688780,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
    "required": true
@@ -528,7 +528,7 @@
   {
    "clientOnly": true,
    "desc": "Move Plus",
-   "fileID": 2676061,
+   "fileID": 2688688,
    "filename": "moveplus-1.12.1-2.4.4.jar",
    "projectID": 237758,
    "required": true
@@ -536,7 +536,7 @@
   {
    "clientOnly": true,
    "desc": "CoroUtil",
-   "fileID": 2679737,
+   "fileID": 2686381,
    "projectID": 237749,
    "required": true
   },
@@ -562,8 +562,8 @@
    "required": true
   },
   {
-   "desc": "chisels-bits",
-   "fileID": 2663717,
+   "desc": "Chisels \u0026 Bits",
+   "fileID": 2687328,
    "filename": "chiselsandbits-14.30.jar",
    "projectID": 231095,
    "required": true
@@ -589,8 +589,8 @@
    "required": true
   },
   {
-   "desc": "better-diving",
-   "fileID": 2661853,
+   "desc": "Better Diving",
+   "fileID": 2689165,
    "projectID": 310303,
    "required": true
   },
@@ -681,13 +681,13 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2684522,
+   "fileID": 2688403,
    "projectID": 313866,
    "required": true
   },
   {
    "desc": "Effortless Building",
-   "fileID": 2681513,
+   "fileID": 2687654,
    "projectID": 302113,
    "required": true
   },
