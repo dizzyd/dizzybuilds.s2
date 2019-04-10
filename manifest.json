@@ -33,7 +33,7 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2684645,
+   "fileID": 2696286,
    "projectID": 238222,
    "required": true
   },
@@ -124,7 +124,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2663947,
+   "fileID": 2697472,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -138,14 +138,14 @@
   },
   {
    "desc": "Tinkers Construct",
-   "fileID": 2689863,
+   "fileID": 2693496,
    "filename": "TConstruct-1.12.2-2.12.0.115.jar",
    "projectID": 74072,
    "required": true
   },
   {
    "desc": "Mantle",
-   "fileID": 2671124,
+   "fileID": 2693483,
    "filename": "Mantle-1.12-1.3.3.39.jar",
    "projectID": 74924,
    "required": true
@@ -193,8 +193,8 @@
    "required": true
   },
   {
-   "desc": "foamfix-for-minecraft",
-   "fileID": 2638380,
+   "desc": "FoamFix for Minecraft",
+   "fileID": 2695388,
    "filename": "foamfix-0.10.3-1.12.2.jar",
    "projectID": 278494,
    "required": true
@@ -207,14 +207,14 @@
   },
   {
    "desc": "Cooking for Blockheads",
-   "fileID": 2659430,
+   "fileID": 2696150,
    "filename": "CookingForBlockheads_1.12.2-6.4.69.jar",
    "projectID": 231484,
    "required": true
   },
   {
    "desc": "Dark Utilities",
-   "fileID": 2678982,
+   "fileID": 2694889,
    "filename": "DarkUtils-1.12.2-1.8.223.jar",
    "projectID": 242195,
    "required": true
@@ -235,7 +235,7 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 2667338,
+   "fileID": 2692104,
    "filename": "astralsorcery-1.12.2-1.10.10.jar",
    "projectID": 241721,
    "required": true
@@ -333,7 +333,7 @@
   },
   {
    "desc": "Aroma1997Core",
-   "fileID": 2676868,
+   "fileID": 2690354,
    "filename": "Aroma1997Core-1.12.2-2.0.0.0.b162.jar",
    "projectID": 223735,
    "required": true
@@ -360,8 +360,8 @@
    "required": true
   },
   {
-   "desc": "alternating-flux",
-   "fileID": 2611756,
+   "desc": "Alternating Flux",
+   "fileID": 2693578,
    "filename": "alternatingflux-0.12.2-1.jar",
    "projectID": 285135,
    "required": true
@@ -381,7 +381,7 @@
   },
   {
    "desc": "Climatic Biome Placement",
-   "fileID": 2686721,
+   "fileID": 2696488,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
@@ -394,22 +394,22 @@
    "required": true
   },
   {
-   "desc": "refined-storage",
-   "fileID": 2642249,
+   "desc": "Refined Storage",
+   "fileID": 2690877,
    "filename": "refinedstorage-1.6.12.jar",
    "projectID": 243076,
    "required": true
   },
   {
    "desc": "Advanced Chimneys",
-   "fileID": 2682792,
+   "fileID": 2695395,
    "filename": "AdChimneys-1.12.2-3.3.17.0-build.0250.jar",
    "projectID": 244830,
    "required": true
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2688392,
+   "fileID": 2697017,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
@@ -463,8 +463,8 @@
    "required": true
   },
   {
-   "desc": "pams-harvestcraft",
-   "fileID": 2650315,
+   "desc": "Pam's HarvestCraft",
+   "fileID": 2696248,
    "filename": "Pams-HarvestCraft-1.12.2zb.jar",
    "projectID": 221857,
    "required": true
@@ -506,7 +506,7 @@
   },
   {
    "desc": "Building Gadgets",
-   "fileID": 2688780,
+   "fileID": 2691133,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
    "required": true
@@ -584,13 +584,13 @@
   },
   {
    "desc": "Industrial Craft",
-   "fileID": 2669612,
+   "fileID": 2697274,
    "projectID": 242638,
    "required": true
   },
   {
    "desc": "Better Diving",
-   "fileID": 2689165,
+   "fileID": 2692758,
    "projectID": 310303,
    "required": true
   },
@@ -657,7 +657,7 @@
   },
   {
    "desc": "CD4017BE Library",
-   "fileID": 2676114,
+   "fileID": 2695805,
    "projectID": 229208,
    "required": true
   },
@@ -681,13 +681,13 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2688403,
+   "fileID": 2697393,
    "projectID": 313866,
    "required": true
   },
   {
    "desc": "Effortless Building",
-   "fileID": 2689816,
+   "fileID": 2692064,
    "projectID": 302113,
    "required": true
   },
@@ -704,8 +704,8 @@
    "required": true
   },
   {
-   "desc": "mekanica",
-   "fileID": 2690125,
+   "desc": "Mekanica",
+   "fileID": 2695105,
    "projectID": 315844,
    "required": true
   },
@@ -717,7 +717,7 @@
   },
   {
    "desc": "Mekanica: Generators",
-   "fileID": 2690126,
+   "fileID": 2695106,
    "projectID": 315908,
    "required": true
   }
