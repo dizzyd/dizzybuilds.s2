@@ -719,6 +719,24 @@
    "fileID": 2695106,
    "projectID": 315908,
    "required": true
+  },
+  {
+   "desc": "alchemistry",
+   "fileID": 2701615,
+   "projectID": 293425,
+   "required": true
+  },
+  {
+   "desc": "shadowfacts-forgelin",
+   "fileID": 2640952,
+   "projectID": 248453,
+   "required": true
+  },
+  {
+   "desc": "a-lib",
+   "fileID": 2700516,
+   "projectID": 293426,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
@@ -727,7 +745,7 @@
   "javaArgs": "-Xmx6G -XX:+UseG1GC",
   "modLoaders": [
    {
-    "id": "forge-14.23.5.2808",
+    "id": "forge-14.23.5.2816",
     "primary": true
    }
   ],
