@@ -4,8 +4,8 @@
  },
  "files": [
   {
-   "desc": "worleys-caves",
-   "fileID": 2613897,
+   "desc": "Worley's Caves",
+   "fileID": 2700492,
    "filename": "worleycaves-1.3.0.jar",
    "projectID": 299815,
    "required": true
@@ -33,7 +33,7 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2696286,
+   "fileID": 2699252,
    "projectID": 238222,
    "required": true
   },
@@ -123,7 +123,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2697472,
+   "fileID": 2701794,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -234,7 +234,7 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 2692104,
+   "fileID": 2701235,
    "filename": "astralsorcery-1.12.2-1.10.10.jar",
    "projectID": 241721,
    "required": true
@@ -380,7 +380,7 @@
   },
   {
    "desc": "Climatic Biome Placement",
-   "fileID": 2696488,
+   "fileID": 2699726,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
@@ -408,7 +408,7 @@
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2697017,
+   "fileID": 2700665,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
@@ -484,14 +484,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2689778,
+   "fileID": 2699531,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2689777,
+   "fileID": 2699532,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -583,7 +583,7 @@
   },
   {
    "desc": "Industrial Craft",
-   "fileID": 2697274,
+   "fileID": 2700233,
    "projectID": 242638,
    "required": true
   },
@@ -614,7 +614,7 @@
   {
    "clientOnly": true,
    "desc": "Smooth Font",
-   "fileID": 2682639,
+   "fileID": 2701094,
    "projectID": 285742,
    "required": true
   },
@@ -644,7 +644,7 @@
   },
   {
    "desc": "Just Enough Calculation",
-   "fileID": 2676907,
+   "fileID": 2698317,
    "projectID": 242223,
    "required": true
   },
@@ -680,13 +680,13 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2697393,
+   "fileID": 2701207,
    "projectID": 313866,
    "required": true
   },
   {
    "desc": "Effortless Building",
-   "fileID": 2692064,
+   "fileID": 2697667,
    "projectID": 302113,
    "required": true
   },
