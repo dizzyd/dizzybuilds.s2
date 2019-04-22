@@ -737,6 +737,12 @@
    "fileID": 2700516,
    "projectID": 293426,
    "required": true
+  },
+  {
+   "desc": "patchouli",
+   "fileID": 2684826,
+   "projectID": 306770,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
