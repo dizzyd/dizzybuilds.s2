@@ -11,8 +11,8 @@
    "required": true
   },
   {
-   "desc": "dynamictrees",
-   "fileID": 2658681,
+   "desc": "Dynamic Trees",
+   "fileID": 2702424,
    "filename": "DynamicTrees-1.12.2-0.9.4.jar",
    "projectID": 252818,
    "required": true
@@ -33,7 +33,7 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2699252,
+   "fileID": 2702121,
    "projectID": 238222,
    "required": true
   },
@@ -123,7 +123,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2701794,
+   "fileID": 2707577,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -165,14 +165,14 @@
   },
   {
    "desc": "Quark",
-   "fileID": 2677108,
+   "fileID": 2708706,
    "filename": "Quark-r1.5-145.jar",
    "projectID": 243121,
    "required": true
   },
   {
    "desc": "AutoRegLib",
-   "fileID": 2677092,
+   "fileID": 2704893,
    "filename": "AutoRegLib-1.3-24.jar",
    "projectID": 250363,
    "required": true
@@ -318,7 +318,7 @@
   },
   {
    "desc": "Antique Atlas",
-   "fileID": 2659892,
+   "fileID": 2706321,
    "filename": "antiqueatlas-1.12.2-4.5.0.jar",
    "projectID": 227795,
    "required": true
@@ -380,7 +380,7 @@
   },
   {
    "desc": "Climatic Biome Placement",
-   "fileID": 2699726,
+   "fileID": 2706427,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
@@ -401,28 +401,28 @@
   },
   {
    "desc": "Advanced Chimneys",
-   "fileID": 2695395,
+   "fileID": 2708954,
    "filename": "AdChimneys-1.12.2-3.3.17.0-build.0250.jar",
    "projectID": 244830,
    "required": true
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2700665,
+   "fileID": 2708952,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
   },
   {
-   "desc": "immersive-craft",
-   "fileID": 2660156,
+   "desc": "Immersive Craft",
+   "fileID": 2704408,
    "filename": "immcraft-1.12-1.5.1.jar",
    "projectID": 241268,
    "required": true
   },
   {
-   "desc": "mcjtylib",
-   "fileID": 2660396,
+   "desc": "McJtyLib",
+   "fileID": 2708318,
    "projectID": 233105,
    "required": true
   },
@@ -484,14 +484,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2699531,
+   "fileID": 2703258,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2699532,
+   "fileID": 2705492,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -511,8 +511,8 @@
    "required": true
   },
   {
-   "desc": "comforts",
-   "fileID": 2651155,
+   "desc": "Comforts",
+   "fileID": 2705810,
    "filename": "comforts-1.12.2-1.4.1.1.jar",
    "projectID": 276951,
    "required": true
@@ -562,7 +562,7 @@
   },
   {
    "desc": "Chisels \u0026 Bits",
-   "fileID": 2687328,
+   "fileID": 2703696,
    "filename": "chiselsandbits-14.30.jar",
    "projectID": 231095,
    "required": true
@@ -583,13 +583,13 @@
   },
   {
    "desc": "Industrial Craft",
-   "fileID": 2700233,
+   "fileID": 2708562,
    "projectID": 242638,
    "required": true
   },
   {
    "desc": "Better Diving",
-   "fileID": 2692758,
+   "fileID": 2702004,
    "projectID": 310303,
    "required": true
   },
@@ -626,7 +626,7 @@
   },
   {
    "desc": "RFTools",
-   "fileID": 2672513,
+   "fileID": 2707388,
    "projectID": 224641,
    "required": true
   },
@@ -637,8 +637,8 @@
    "required": true
   },
   {
-   "desc": "laggoggles",
-   "fileID": 2536205,
+   "desc": "LagGoggles",
+   "fileID": 2702823,
    "projectID": 283525,
    "required": true
   },
@@ -656,13 +656,13 @@
   },
   {
    "desc": "CD4017BE Library",
-   "fileID": 2695805,
+   "fileID": 2702674,
    "projectID": 229208,
    "required": true
   },
   {
-   "desc": "rftools-power",
-   "fileID": 2660170,
+   "desc": "RFTools Power",
+   "fileID": 2704404,
    "projectID": 290209,
    "required": true
   },
@@ -680,13 +680,13 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2701207,
+   "fileID": 2708936,
    "projectID": 313866,
    "required": true
   },
   {
    "desc": "Effortless Building",
-   "fileID": 2697667,
+   "fileID": 2705345,
    "projectID": 302113,
    "required": true
   },
@@ -709,8 +709,8 @@
    "required": true
   },
   {
-   "desc": "immersiveposts",
-   "fileID": 2683261,
+   "desc": "Immersive Posts",
+   "fileID": 2704214,
    "projectID": 314645,
    "required": true
   },
@@ -721,8 +721,8 @@
    "required": true
   },
   {
-   "desc": "alchemistry",
-   "fileID": 2701615,
+   "desc": "Alchemistry",
+   "fileID": 2708262,
    "projectID": 293425,
    "required": true
   },
@@ -739,9 +739,33 @@
    "required": true
   },
   {
-   "desc": "patchouli",
-   "fileID": 2684826,
+   "desc": "Patchouli",
+   "fileID": 2704883,
    "projectID": 306770,
+   "required": true
+  },
+  {
+   "desc": "mowzies-mobs",
+   "fileID": 2699705,
+   "projectID": 250498,
+   "required": true
+  },
+  {
+   "desc": "llibrary",
+   "fileID": 2704186,
+   "projectID": 243298,
+   "required": true
+  },
+  {
+   "desc": "ice-and-fire-dragons",
+   "fileID": 2693547,
+   "projectID": 264231,
+   "required": true
+  },
+  {
+   "desc": "grimoire-of-gaia",
+   "fileID": 2686203,
+   "projectID": 228948,
    "required": true
   }
  ],
