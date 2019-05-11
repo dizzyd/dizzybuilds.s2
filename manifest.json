@@ -4,13 +4,6 @@
  },
  "files": [
   {
-   "desc": "Worley's Caves",
-   "fileID": 2700492,
-   "filename": "worleycaves-1.3.0.jar",
-   "projectID": 299815,
-   "required": true
-  },
-  {
    "desc": "Dynamic Trees",
    "fileID": 2702424,
    "filename": "DynamicTrees-1.12.2-0.9.4.jar",
@@ -400,13 +393,6 @@
    "required": true
   },
   {
-   "desc": "Advanced Chimneys",
-   "fileID": 2708954,
-   "filename": "AdChimneys-1.12.2-3.3.17.0-build.0250.jar",
-   "projectID": 244830,
-   "required": true
-  },
-  {
    "desc": "ForgeEndertech",
    "fileID": 2708952,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
@@ -518,13 +504,6 @@
    "required": true
   },
   {
-   "desc": "waterfree-farming",
-   "fileID": 2528276,
-   "filename": "waterfreefarming-2.0.5.jar",
-   "projectID": 252944,
-   "required": true
-  },
-  {
    "clientOnly": true,
    "desc": "Move Plus",
    "fileID": 2688688,
@@ -558,13 +537,6 @@
    "fileID": 2681454,
    "filename": "TinyMobFarm-1.12.2-1.0.3.jar",
    "projectID": 311880,
-   "required": true
-  },
-  {
-   "desc": "Chisels \u0026 Bits",
-   "fileID": 2703696,
-   "filename": "chiselsandbits-14.30.jar",
-   "projectID": 231095,
    "required": true
   },
   {
@@ -616,12 +588,6 @@
    "desc": "Smooth Font",
    "fileID": 2701094,
    "projectID": 285742,
-   "required": true
-  },
-  {
-   "desc": "Chunk-Pregenerator",
-   "fileID": 2676149,
-   "projectID": 267193,
    "required": true
   },
   {
@@ -682,12 +648,6 @@
    "desc": "Engineer's Decor",
    "fileID": 2708936,
    "projectID": 313866,
-   "required": true
-  },
-  {
-   "desc": "Effortless Building",
-   "fileID": 2705345,
-   "projectID": 302113,
    "required": true
   },
   {
@@ -772,6 +732,24 @@
    "desc": "colytra",
    "fileID": 2704169,
    "projectID": 280200,
+   "required": true
+  },
+  {
+   "desc": "better-builders-wands",
+   "fileID": 2691084,
+   "projectID": 238403,
+   "required": true
+  },
+  {
+   "desc": "redwoods",
+   "fileID": 2690966,
+   "projectID": 314574,
+   "required": true
+  },
+  {
+   "desc": "railcraft",
+   "fileID": 2687757,
+   "projectID": 51195,
    "required": true
   }
  ],
