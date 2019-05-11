@@ -744,7 +744,7 @@
    "projectID": 306770,
    "required": true
   },
- {
+  {
    "desc": "llibrary",
    "fileID": 2704186,
    "projectID": 243298,
@@ -766,6 +766,12 @@
    "desc": "hex-lands",
    "fileID": 2683022,
    "projectID": 295753,
+   "required": true
+  },
+  {
+   "desc": "colytra",
+   "fileID": 2704169,
+   "projectID": 280200,
    "required": true
   }
  ],
