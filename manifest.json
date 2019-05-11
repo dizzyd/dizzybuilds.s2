@@ -767,6 +767,12 @@
    "fileID": 2686203,
    "projectID": 228948,
    "required": true
+  },
+  {
+   "desc": "hex-lands",
+   "fileID": 2683022,
+   "projectID": 295753,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
