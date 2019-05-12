@@ -225,7 +225,7 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 2701235,
+   "fileID": 2709438,
    "filename": "astralsorcery-1.12.2-1.10.10.jar",
    "projectID": 241721,
    "required": true
@@ -553,7 +553,7 @@
   },
   {
    "desc": "Industrial Craft",
-   "fileID": 2708562,
+   "fileID": 2709734,
    "projectID": 242638,
    "required": true
   },
@@ -680,7 +680,7 @@
   },
   {
    "desc": "Alchemistry",
-   "fileID": 2708262,
+   "fileID": 2709579,
    "projectID": 293425,
    "required": true
   },
