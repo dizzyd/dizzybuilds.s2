@@ -26,7 +26,7 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2702121,
+   "fileID": 2710384,
    "projectID": 238222,
    "required": true
   },
@@ -156,7 +156,7 @@
   },
   {
    "desc": "Quark",
-   "fileID": 2708706,
+   "fileID": 2711356,
    "filename": "Quark-r1.5-145.jar",
    "projectID": 243121,
    "required": true
@@ -553,7 +553,7 @@
   },
   {
    "desc": "Industrial Craft",
-   "fileID": 2709734,
+   "fileID": 2711100,
    "projectID": 242638,
    "required": true
   },
@@ -644,7 +644,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2708936,
+   "fileID": 2710314,
    "projectID": 313866,
    "required": true
   },
@@ -680,7 +680,7 @@
   },
   {
    "desc": "Alchemistry",
-   "fileID": 2709579,
+   "fileID": 2710575,
    "projectID": 293425,
    "required": true
   },
