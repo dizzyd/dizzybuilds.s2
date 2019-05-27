@@ -767,6 +767,24 @@
    "fileID": 2713691,
    "projectID": 268566,
    "required": true
+  },
+  {
+   "desc": "crafttweaker",
+   "fileID": 2713681,
+   "projectID": 239197,
+   "required": true
+  },
+  {
+   "desc": "modtweaker",
+   "fileID": 2693544,
+   "projectID": 220954,
+   "required": true
+  },
+  {
+   "desc": "mtlib",
+   "fileID": 2684561,
+   "projectID": 253211,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
