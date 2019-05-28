@@ -1,4 +1,4 @@
-/* Steel blend -> ingot */t
+/* Steel blend -> ingot */
 mods.mekanism.smelter.addRecipe(<thermalfoundation:material:96>, <thermalfoundation:material:160>);
 
 /* Alchemistry oxygen -> Mekanism oxygen */
