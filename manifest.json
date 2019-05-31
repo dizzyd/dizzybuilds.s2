@@ -116,7 +116,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2707577,
+   "fileID": 2717519,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -156,7 +156,7 @@
   },
   {
    "desc": "Quark",
-   "fileID": 2715769,
+   "fileID": 2716918,
    "filename": "Quark-r1.5-145.jar",
    "projectID": 243121,
    "required": true
@@ -211,7 +211,7 @@
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2715141,
+   "fileID": 2717168,
    "filename": "Bookshelf-1.12.2-2.3.574.jar",
    "projectID": 228525,
    "required": true
@@ -225,7 +225,7 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 2709438,
+   "fileID": 2716590,
    "filename": "astralsorcery-1.12.2-1.10.10.jar",
    "projectID": 241721,
    "required": true
@@ -447,7 +447,7 @@
   },
   {
    "desc": "Pam's HarvestCraft",
-   "fileID": 2696248,
+   "fileID": 2717443,
    "filename": "Pams-HarvestCraft-1.12.2zb.jar",
    "projectID": 221857,
    "required": true
@@ -553,7 +553,7 @@
   },
   {
    "desc": "Industrial Craft",
-   "fileID": 2714229,
+   "fileID": 2717611,
    "projectID": 242638,
    "required": true
   },
@@ -644,7 +644,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2715364,
+   "fileID": 2717400,
    "projectID": 313866,
    "required": true
   },
