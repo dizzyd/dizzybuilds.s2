@@ -26,7 +26,7 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2710384,
+   "fileID": 2724420,
    "projectID": 238222,
    "required": true
   },
@@ -156,7 +156,7 @@
   },
   {
    "desc": "Quark",
-   "fileID": 2716918,
+   "fileID": 2724128,
    "filename": "Quark-r1.5-145.jar",
    "projectID": 243121,
    "required": true
@@ -204,14 +204,14 @@
   },
   {
    "desc": "Dark Utilities",
-   "fileID": 2694889,
+   "fileID": 2723622,
    "filename": "DarkUtils-1.12.2-1.8.223.jar",
    "projectID": 242195,
    "required": true
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2717168,
+   "fileID": 2723580,
    "filename": "Bookshelf-1.12.2-2.3.574.jar",
    "projectID": 228525,
    "required": true
@@ -316,7 +316,7 @@
   },
   {
    "desc": "AromaBackup",
-   "fileID": 2672446,
+   "fileID": 2720407,
    "filename": "AromaBackup-1.12.2-3.0.0.0.b116.jar",
    "projectID": 225658,
    "required": true
@@ -371,14 +371,14 @@
   },
   {
    "desc": "Climatic Biome Placement",
-   "fileID": 2706427,
+   "fileID": 2719503,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
   },
   {
    "desc": "Dynamic Trees Compatibility for Climatic Biomes",
-   "fileID": 2688433,
+   "fileID": 2719504,
    "filename": "ClimaticBiomes-DynamicTreesCompat-1.1.0-MC1.12.2.jar",
    "projectID": 309353,
    "required": true
@@ -392,7 +392,7 @@
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2715060,
+   "fileID": 2723820,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
@@ -553,13 +553,13 @@
   },
   {
    "desc": "Industrial Craft",
-   "fileID": 2717611,
+   "fileID": 2721382,
    "projectID": 242638,
    "required": true
   },
   {
    "desc": "Better Diving",
-   "fileID": 2714915,
+   "fileID": 2724294,
    "projectID": 310303,
    "required": true
   },
@@ -595,8 +595,8 @@
    "required": true
   },
   {
-   "desc": "bonsai-trees",
-   "fileID": 2654304,
+   "desc": "Bonsai Trees",
+   "fileID": 2719654,
    "projectID": 278993,
    "required": true
   },
@@ -620,7 +620,7 @@
   },
   {
    "desc": "CD4017BE Library",
-   "fileID": 2714129,
+   "fileID": 2724472,
    "projectID": 229208,
    "required": true
   },
@@ -644,7 +644,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2717400,
+   "fileID": 2724883,
    "projectID": 313866,
    "required": true
   },
@@ -668,7 +668,7 @@
   },
   {
    "desc": "Alchemistry",
-   "fileID": 2715290,
+   "fileID": 2724993,
    "projectID": 293425,
    "required": true
   },
@@ -757,20 +757,20 @@
    "required": true
   },
   {
-   "desc": "mekanism",
-   "fileID": 2713689,
+   "desc": "Mekanism",
+   "fileID": 2724543,
    "projectID": 268560,
    "required": true
   },
   {
-   "desc": "mekanism-generators",
-   "fileID": 2713691,
+   "desc": "Mekanism Generators",
+   "fileID": 2724545,
    "projectID": 268566,
    "required": true
   },
   {
-   "desc": "crafttweaker",
-   "fileID": 2713681,
+   "desc": "CraftTweaker",
+   "fileID": 2724129,
    "projectID": 239197,
    "required": true
   },
