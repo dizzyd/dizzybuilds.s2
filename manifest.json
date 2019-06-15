@@ -620,9 +620,10 @@
   },
   {
    "desc": "CD4017BE Library",
-   "fileID": 2724472,
+   "fileID": 2722341,
    "projectID": 229208,
-   "required": true
+   "required": true,
+   "locked": true
   },
   {
    "desc": "RFTools Power",
